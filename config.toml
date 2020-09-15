@@ -1,0 +1,4 @@
+baseURL = "http://heyeselrey.org/"
+languageCode = "en-us"
+title = "Hugo Test"
+theme = "ananke"

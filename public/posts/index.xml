@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Hugo Test</title>
+    <link>http://heyeselrey.org/posts/</link>
+    <description>Recent content in Posts on Hugo Test</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 Sep 2020 16:25:39 -0600</lastBuildDate><atom:link href="http://heyeselrey.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Second Post</title>
+      <link>http://heyeselrey.org/posts/second-post/</link>
+      <pubDate>Tue, 15 Sep 2020 16:25:39 -0600</pubDate>
+      
+      <guid>http://heyeselrey.org/posts/second-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>http://heyeselrey.org/posts/my-first-post/</link>
+      <pubDate>Tue, 15 Sep 2020 16:07:41 -0600</pubDate>
+      
+      <guid>http://heyeselrey.org/posts/my-first-post/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
